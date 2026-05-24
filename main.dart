@@ -112,7 +112,7 @@ void main() {
       print('  Thank you for dining with Lcm_Restaurant. Goodbye!');
       isRunning = false;
 
-      // print this error message if a number gereater than fve is entered.
+      // print this error message if a number gereater than five is entered.
     } else {
       print('  Invalid choice. Please enter a number between 1 and 5.');
     }
