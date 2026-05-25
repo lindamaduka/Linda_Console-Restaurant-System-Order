@@ -1,7 +1,7 @@
 # Linda_Console Restaurant System Order
 
 Restaurant Order System
-A Dart console application that simulates a restaurant ordering system. A waiter can take orders from customers, add or remove items, and print a final bill — all from the terminal.
+A Dart console application that simulates a restaurant ordering system. A waiter can take orders from customers, add or remove items, and print a final receipt.
 
 What It Does
 
@@ -13,7 +13,6 @@ Resets the order after billing so the next customer can start fresh
 Runs in a loop until you choose to exit
 
 Project Structure
-restaurant_app/
 ├── main.dart  
  ├── menu_item.dart  
  ├── food.dart  
